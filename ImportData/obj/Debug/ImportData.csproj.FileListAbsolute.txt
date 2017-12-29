@@ -1,0 +1,12 @@
+F:\工作资料\工作资料\资源管理平台\项目代码\ZHXT_Resource\ImportData\bin\Debug\ImportData.exe.config
+F:\工作资料\工作资料\资源管理平台\项目代码\ZHXT_Resource\ImportData\bin\Debug\ImportData.exe
+F:\工作资料\工作资料\资源管理平台\项目代码\ZHXT_Resource\ImportData\bin\Debug\ImportData.pdb
+F:\工作资料\工作资料\资源管理平台\项目代码\ZHXT_Resource\ImportData\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\工作资料\工作资料\资源管理平台\项目代码\ZHXT_Resource\ImportData\bin\Debug\NPOI.dll
+F:\工作资料\工作资料\资源管理平台\项目代码\ZHXT_Resource\ImportData\bin\Debug\NPOI.OOXML.dll
+F:\工作资料\工作资料\资源管理平台\项目代码\ZHXT_Resource\ImportData\bin\Debug\NPOI.OpenXml4Net.dll
+F:\工作资料\工作资料\资源管理平台\项目代码\ZHXT_Resource\ImportData\bin\Debug\NPOI.OpenXmlFormats.dll
+F:\工作资料\工作资料\资源管理平台\项目代码\ZHXT_Resource\ImportData\bin\Debug\NPOI.xml
+F:\工作资料\工作资料\资源管理平台\项目代码\ZHXT_Resource\ImportData\obj\Debug\ImportData.csprojResolveAssemblyReference.cache
+F:\工作资料\工作资料\资源管理平台\项目代码\ZHXT_Resource\ImportData\obj\Debug\ImportData.exe
+F:\工作资料\工作资料\资源管理平台\项目代码\ZHXT_Resource\ImportData\obj\Debug\ImportData.pdb
